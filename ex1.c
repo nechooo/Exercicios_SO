@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+//Lido o valor de um ano introduzido pelo utilizador e verificar se é bissexto ou não
+int mainex1() {
     int ano;
     printf("Ano: ");
     scanf_s("%d", &ano); 
